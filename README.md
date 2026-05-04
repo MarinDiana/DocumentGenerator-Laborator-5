@@ -1,8 +1,7 @@
 # Document Generator – Design Patterns
 
-Acest proiect demonstreaza utilizarea principalelor pattern-uri creationale in C#, intr-un sistem de generare documente (rapoarte si facturi).
-
-Aplicatia permite exportul documentelor in formate diferite si configurarea flexibila a continutului folosind mai multe pattern-uri.
+   Proiectul reprezintă un sistem de generare documente care folosește pattern-uri creaționale pentru a separa logica de creare a obiectelor de logica de utilizare.
+   Am folosit Factory Method pentru export, Abstract Factory pentru componente, Builder pentru construirea documentului, Prototype pentru clonare și Singleton pentru configurare globală.
 
 ---
 
